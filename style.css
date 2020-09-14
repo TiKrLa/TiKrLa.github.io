@@ -305,15 +305,13 @@ header {
     display: block;
     width: 5em;
     height: 1px;
-    margin: 0.5em auto 3em;
+    margin: 0.5em auto 1em;
     background: currentColor;
     opacity: 0.5;
 }
-
 .tech {
     margin-bottom: 4em;
 }
-
 
 @media (min-width: 800px) {
     .techs {
