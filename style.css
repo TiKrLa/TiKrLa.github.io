@@ -305,7 +305,7 @@ header {
     display: block;
     width: 5em;
     height: 1px;
-    margin: 0.5em auto 1em;
+    margin: 0.5em auto 3em;
     background: currentColor;
     opacity: 0.5;
 }
