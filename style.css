@@ -7,8 +7,8 @@
 /* Custom properties, update these for my design */
 
 :root {
-    --ff-primary: 'Muli', serif;
-    --ff-secondary: 'Muli', serif;
+    --ff-primary: 'Roboto Slab', serif;
+    --ff-secondary: 'Lora', serif;
 
     --fw-reg: 400;
     --fw-bold: 700;
