@@ -308,6 +308,7 @@ header {
     margin: 0 auto;
     background: currentColor;
     opacity: 0.5;
+    justify-content: center;
 }
 
 .tech {
