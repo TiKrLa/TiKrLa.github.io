@@ -308,6 +308,7 @@ header {
     margin: 0.5em auto 1em;
     background: currentColor;
     opacity: 0.5;
+    align-items: center;
 }
 
 .tech {
