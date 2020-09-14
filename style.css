@@ -303,7 +303,7 @@ header {
 .section__title--techs::after {
     content: '';
     display: block;
-    width: 2em;
+    width: 4em;
     height: 1px;
     margin: 0.5em auto 1em;
     background: currentColor;
